@@ -1,0 +1,12 @@
+C:\Users\msi 2.0\Desktop\grawr\CICD\CICDProject\CICDProject\bin\Debug\net8.0\CICDLibrary.deps.json
+C:\Users\msi 2.0\Desktop\grawr\CICD\CICDProject\CICDProject\bin\Debug\net8.0\CICDLibrary.dll
+C:\Users\msi 2.0\Desktop\grawr\CICD\CICDProject\CICDProject\bin\Debug\net8.0\CICDLibrary.pdb
+C:\Users\msi 2.0\Desktop\grawr\CICD\CICDProject\CICDProject\obj\Debug\net8.0\CICDLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi 2.0\Desktop\grawr\CICD\CICDProject\CICDProject\obj\Debug\net8.0\CICDLibrary.AssemblyInfoInputs.cache
+C:\Users\msi 2.0\Desktop\grawr\CICD\CICDProject\CICDProject\obj\Debug\net8.0\CICDLibrary.AssemblyInfo.cs
+C:\Users\msi 2.0\Desktop\grawr\CICD\CICDProject\CICDProject\obj\Debug\net8.0\CICDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\msi 2.0\Desktop\grawr\CICD\CICDProject\CICDProject\obj\Debug\net8.0\CICDLibrary.sourcelink.json
+C:\Users\msi 2.0\Desktop\grawr\CICD\CICDProject\CICDProject\obj\Debug\net8.0\CICDLibrary.dll
+C:\Users\msi 2.0\Desktop\grawr\CICD\CICDProject\CICDProject\obj\Debug\net8.0\refint\CICDLibrary.dll
+C:\Users\msi 2.0\Desktop\grawr\CICD\CICDProject\CICDProject\obj\Debug\net8.0\CICDLibrary.pdb
+C:\Users\msi 2.0\Desktop\grawr\CICD\CICDProject\CICDProject\obj\Debug\net8.0\ref\CICDLibrary.dll

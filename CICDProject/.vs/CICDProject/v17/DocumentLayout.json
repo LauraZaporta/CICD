@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi 2.0\\Desktop\\grawr\\CICD\\CICDProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF23B6B2-59CD-4069-875D-7CFD61B01630}|CICDTesting\\CICDTesting.csproj|c:\\users\\msi 2.0\\desktop\\grawr\\cicd\\cicdproject\\cicdtesting\\cicdtesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF23B6B2-59CD-4069-875D-7CFD61B01630}|CICDTesting\\CICDTesting.csproj|solutionrelative:cicdtesting\\cicdtesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BA9034-A3EF-495F-97D1-29B3565209DD}|CICDProject\\CICDProject.csproj|c:\\users\\msi 2.0\\desktop\\grawr\\cicd\\cicdproject\\cicdproject\\cicdlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BA9034-A3EF-495F-97D1-29B3565209DD}|CICDProject\\CICDProject.csproj|solutionrelative:cicdproject\\cicdlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CICDTesting.cs",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\grawr\\CICD\\CICDProject\\CICDTesting\\CICDTesting.cs",
+              "RelativeDocumentMoniker": "CICDTesting\\CICDTesting.cs",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\grawr\\CICD\\CICDProject\\CICDTesting\\CICDTesting.cs",
+              "RelativeToolTip": "CICDTesting\\CICDTesting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:25:39.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CICDLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\grawr\\CICD\\CICDProject\\CICDProject\\CICDLibrary.cs",
+              "RelativeDocumentMoniker": "CICDProject\\CICDLibrary.cs",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\grawr\\CICD\\CICDProject\\CICDProject\\CICDLibrary.cs",
+              "RelativeToolTip": "CICDProject\\CICDLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:24:16.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
